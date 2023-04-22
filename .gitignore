@@ -1,1 +1,24 @@
-.vs
+# Visual Studio files
+.vs/
+*.suo
+*.user
+*.ncb
+*.aps
+*.vshost.*
+*_i.c
+*_p.c
+*.pidb
+*.log
+*.sln.docstates
+
+# Build output
+bin/
+obj/
+
+# NuGet packages
+*.nupkg
+packages/
+
+# Other generated files
+[Tt]est[Rr]esult*
+[Bb]uild[Ll]og.*
