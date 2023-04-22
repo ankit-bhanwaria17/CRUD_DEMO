@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "b3gcgE9c9lI/gSq7FLZ5st8Dcf5bEb5oNuf3zsBxqy0=",
+  "Source": "CRUDDemo",
+  "BasePath": "_content/CRUDDemo",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "CRUDDemo\\wwwroot",
+      "Source": "CRUDDemo",
+      "ContentRoot": "C:\\Users\\Ankit\\Desktop\\c sharp\\Udemy course\\aspnetcore\\CRUDDemo\\CRUDDemo\\wwwroot\\",
+      "BasePath": "_content/CRUDDemo",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\Ankit\\Desktop\\c sharp\\Udemy course\\aspnetcore\\CRUDDemo\\CRUDDemo\\wwwroot\\StyleSheet.css",
+      "SourceId": "CRUDDemo",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Ankit\\Desktop\\c sharp\\Udemy course\\aspnetcore\\CRUDDemo\\CRUDDemo\\wwwroot\\",
+      "BasePath": "_content/CRUDDemo",
+      "RelativePath": "StyleSheet.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\StyleSheet.css"
+    }
+  ]
+}

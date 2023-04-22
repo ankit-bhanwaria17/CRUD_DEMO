@@ -1670,6 +1670,42 @@
         "build": {
           "build/netcoreapp2.1/xunit.runner.visualstudio.props": {}
         }
+      },
+      "Entites/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/Entites.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Entites.dll": {}
+        }
+      },
+      "ServiceContracts/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "Entites": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/ServiceContracts.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ServiceContracts.dll": {}
+        }
+      },
+      "Services/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "ServiceContracts": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Services.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Services.dll": {}
+        }
       }
     }
   },
@@ -5966,11 +6002,29 @@
         "xunit.runner.visualstudio.2.4.3.nupkg.sha512",
         "xunit.runner.visualstudio.nuspec"
       ]
+    },
+    "Entites/1.0.0": {
+      "type": "project",
+      "path": "../Entites/Entites.csproj",
+      "msbuildProject": "../Entites/Entites.csproj"
+    },
+    "ServiceContracts/1.0.0": {
+      "type": "project",
+      "path": "../ServiceContracts/ServiceContracts.csproj",
+      "msbuildProject": "../ServiceContracts/ServiceContracts.csproj"
+    },
+    "Services/1.0.0": {
+      "type": "project",
+      "path": "../Services/Services.csproj",
+      "msbuildProject": "../Services/Services.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net6.0": [
+      "Entites >= 1.0.0",
       "Microsoft.NET.Test.Sdk >= 17.1.0",
+      "ServiceContracts >= 1.0.0",
+      "Services >= 1.0.0",
       "coverlet.collector >= 3.1.2",
       "xunit >= 2.4.1",
       "xunit.runner.visualstudio >= 2.4.3"
@@ -6002,7 +6056,17 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\Ankit\\Desktop\\c sharp\\Udemy course\\aspnetcore\\CRUDDemo\\Entites\\Entites.csproj": {
+              "projectPath": "C:\\Users\\Ankit\\Desktop\\c sharp\\Udemy course\\aspnetcore\\CRUDDemo\\Entites\\Entites.csproj"
+            },
+            "C:\\Users\\Ankit\\Desktop\\c sharp\\Udemy course\\aspnetcore\\CRUDDemo\\ServiceContracts\\ServiceContracts.csproj": {
+              "projectPath": "C:\\Users\\Ankit\\Desktop\\c sharp\\Udemy course\\aspnetcore\\CRUDDemo\\ServiceContracts\\ServiceContracts.csproj"
+            },
+            "C:\\Users\\Ankit\\Desktop\\c sharp\\Udemy course\\aspnetcore\\CRUDDemo\\Services\\Services.csproj": {
+              "projectPath": "C:\\Users\\Ankit\\Desktop\\c sharp\\Udemy course\\aspnetcore\\CRUDDemo\\Services\\Services.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

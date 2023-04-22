@@ -97,3 +97,10 @@ C:\Users\Ankit\Desktop\c sharp\Udemy course\aspnetcore\CRUDDemo\xUnitTesting\obj
 C:\Users\Ankit\Desktop\c sharp\Udemy course\aspnetcore\CRUDDemo\xUnitTesting\obj\Debug\net6.0\xUnitTesting.pdb
 C:\Users\Ankit\Desktop\c sharp\Udemy course\aspnetcore\CRUDDemo\xUnitTesting\obj\Debug\net6.0\xUnitTesting.genruntimeconfig.cache
 C:\Users\Ankit\Desktop\c sharp\Udemy course\aspnetcore\CRUDDemo\xUnitTesting\obj\Debug\net6.0\ref\xUnitTesting.dll
+C:\Users\Ankit\Desktop\c sharp\Udemy course\aspnetcore\CRUDDemo\xUnitTesting\bin\Debug\net6.0\CoverletSourceRootsMapping
+C:\Users\Ankit\Desktop\c sharp\Udemy course\aspnetcore\CRUDDemo\xUnitTesting\bin\Debug\net6.0\Entites.dll
+C:\Users\Ankit\Desktop\c sharp\Udemy course\aspnetcore\CRUDDemo\xUnitTesting\bin\Debug\net6.0\ServiceContracts.dll
+C:\Users\Ankit\Desktop\c sharp\Udemy course\aspnetcore\CRUDDemo\xUnitTesting\bin\Debug\net6.0\Services.dll
+C:\Users\Ankit\Desktop\c sharp\Udemy course\aspnetcore\CRUDDemo\xUnitTesting\bin\Debug\net6.0\Entites.pdb
+C:\Users\Ankit\Desktop\c sharp\Udemy course\aspnetcore\CRUDDemo\xUnitTesting\bin\Debug\net6.0\ServiceContracts.pdb
+C:\Users\Ankit\Desktop\c sharp\Udemy course\aspnetcore\CRUDDemo\xUnitTesting\bin\Debug\net6.0\Services.pdb

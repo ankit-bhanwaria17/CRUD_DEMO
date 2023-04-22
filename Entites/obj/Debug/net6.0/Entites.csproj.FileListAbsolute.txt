@@ -1,0 +1,12 @@
+C:\Users\Ankit\Desktop\c sharp\Udemy course\aspnetcore\CRUDDemo\Entites\bin\Debug\net6.0\Entites.deps.json
+C:\Users\Ankit\Desktop\c sharp\Udemy course\aspnetcore\CRUDDemo\Entites\bin\Debug\net6.0\Entites.dll
+C:\Users\Ankit\Desktop\c sharp\Udemy course\aspnetcore\CRUDDemo\Entites\bin\Debug\net6.0\Entites.pdb
+C:\Users\Ankit\Desktop\c sharp\Udemy course\aspnetcore\CRUDDemo\Entites\obj\Debug\net6.0\Entites.csproj.AssemblyReference.cache
+C:\Users\Ankit\Desktop\c sharp\Udemy course\aspnetcore\CRUDDemo\Entites\obj\Debug\net6.0\Entites.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ankit\Desktop\c sharp\Udemy course\aspnetcore\CRUDDemo\Entites\obj\Debug\net6.0\Entites.AssemblyInfoInputs.cache
+C:\Users\Ankit\Desktop\c sharp\Udemy course\aspnetcore\CRUDDemo\Entites\obj\Debug\net6.0\Entites.AssemblyInfo.cs
+C:\Users\Ankit\Desktop\c sharp\Udemy course\aspnetcore\CRUDDemo\Entites\obj\Debug\net6.0\Entites.csproj.CoreCompileInputs.cache
+C:\Users\Ankit\Desktop\c sharp\Udemy course\aspnetcore\CRUDDemo\Entites\obj\Debug\net6.0\Entites.dll
+C:\Users\Ankit\Desktop\c sharp\Udemy course\aspnetcore\CRUDDemo\Entites\obj\Debug\net6.0\refint\Entites.dll
+C:\Users\Ankit\Desktop\c sharp\Udemy course\aspnetcore\CRUDDemo\Entites\obj\Debug\net6.0\Entites.pdb
+C:\Users\Ankit\Desktop\c sharp\Udemy course\aspnetcore\CRUDDemo\Entites\obj\Debug\net6.0\ref\Entites.dll
